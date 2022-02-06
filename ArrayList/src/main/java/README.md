@@ -19,8 +19,6 @@ The Box Data stucture works by holding whatever information you want and allowin
 
 ## Tutorial
 
-Write a turotial that another developer could follow. We recommend the following structure:
-
 1. Show how to set up the required classes and stub all the method
 
     ```java
